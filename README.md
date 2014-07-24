@@ -1,5 +1,11 @@
-FxxkBaiduAds-Tampermonkey
+TampermonkeyScripts
 =========================
-一个用来屏蔽百度贴吧广告哒脚本，不知道管不管用啦
-###Coder
+Scripts
+--------------------------
+###Fxxk You, Baidu.user.js
+屏蔽广告脚本
+###Get MiPad-INDEX.user.js
+抢小米平板时候用到的脚本
+Coder
+---------------------------
     Cece
