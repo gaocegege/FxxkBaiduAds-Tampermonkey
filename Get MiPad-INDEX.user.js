@@ -8,24 +8,26 @@
 // @require    http://code.jquery.com/jquery-1.11.0.min.js
 // ==/UserScript==
 
-function hehe()
-{
+/**
+ * [hehe description]
+ * @return {[None]}
+ */
+function hehe() {
     //add a content to achieve click
     location.reload();
     var container = '<span id="cc">cece</span>';
-	$('.J_bookBtn-mipad').append(container);
-    
+    $('.J_bookBtn-mipad').append(container);
+
     //UseLess
     //$('#cc').trigger('click');
     //console.log($('.J_bookBtn-mipad'));
-    
+
     $('#cc').click();
     //log the click
     $('.J_bookBtn-mipad').click(
-        function(){
-        	console.log("Click");
+        function() {
+            console.log("Click");
         }
     );
 }
-
 setInterval(hehe, 2000);
