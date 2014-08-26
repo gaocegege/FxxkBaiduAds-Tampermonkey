@@ -18,7 +18,7 @@ function hehe()
     
     $('#cc').click();
     //log the click
-    $('.J_bookBtn-mipad').click(
+    $('.J_bookBtn-shouhuan').click(
         function(){
         	console.log("Click");
         }
