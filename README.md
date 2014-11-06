@@ -3,9 +3,13 @@ TampermonkeyScripts
 Scripts
 --------------------------
 ###Fxxk You, Baidu.user.js
-屏蔽广告脚本
-###Get MiPad-INDEX.user.js
-抢小米平板时候用到的脚本
+
+shield ads in Baidu Tieba
+
+###Leap Motion in Renren.user.js
+
+allow use gestures to scroll Web-renren. it requires a Leap motion.it will have more features in the future.
+
 Coder
 ---------------------------
     Cece
